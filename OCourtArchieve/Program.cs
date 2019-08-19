@@ -22,7 +22,7 @@ namespace OCourtArchieve
             //string[] differentCities = { "AllCities", "Renton", "Pasco", "SeaTac" };
             cities = ConfigurationManager.AppSettings.Get("Cities");
             //Console.WriteLine("The value of Key0: " + sAttr);
-
+            //Testing GitHub
             
             string[] citiesList = cities.Split(',');
                
