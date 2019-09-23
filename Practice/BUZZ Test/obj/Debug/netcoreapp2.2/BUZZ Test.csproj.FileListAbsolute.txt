@@ -1,0 +1,17 @@
+C:\Users\PTGAdmin\source\repos\BUZZ Test\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\PTGAdmin\source\repos\BUZZ Test\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\PTGAdmin\source\repos\BUZZ Test\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\PTGAdmin\source\repos\BUZZ Test\bin\Debug\netcoreapp2.2\BUZZ Test.deps.json
+C:\Users\PTGAdmin\source\repos\BUZZ Test\bin\Debug\netcoreapp2.2\BUZZ Test.runtimeconfig.json
+C:\Users\PTGAdmin\source\repos\BUZZ Test\bin\Debug\netcoreapp2.2\BUZZ Test.runtimeconfig.dev.json
+C:\Users\PTGAdmin\source\repos\BUZZ Test\bin\Debug\netcoreapp2.2\BUZZ Test.dll
+C:\Users\PTGAdmin\source\repos\BUZZ Test\bin\Debug\netcoreapp2.2\BUZZ Test.pdb
+C:\Users\PTGAdmin\source\repos\BUZZ Test\obj\Debug\netcoreapp2.2\BUZZ Test.csprojAssemblyReference.cache
+C:\Users\PTGAdmin\source\repos\BUZZ Test\obj\Debug\netcoreapp2.2\BUZZ Test.csproj.CoreCompileInputs.cache
+C:\Users\PTGAdmin\source\repos\BUZZ Test\obj\Debug\netcoreapp2.2\BUZZ Test.AssemblyInfoInputs.cache
+C:\Users\PTGAdmin\source\repos\BUZZ Test\obj\Debug\netcoreapp2.2\BUZZ Test.AssemblyInfo.cs
+C:\Users\PTGAdmin\source\repos\BUZZ Test\obj\Debug\netcoreapp2.2\BUZZ Test.dll
+C:\Users\PTGAdmin\source\repos\BUZZ Test\obj\Debug\netcoreapp2.2\BUZZ Test.pdb
+C:\Users\PTGAdmin\source\repos\BUZZ Test\bin\Debug\netcoreapp2.2\FIZZ.dll
+C:\Users\PTGAdmin\source\repos\BUZZ Test\bin\Debug\netcoreapp2.2\FIZZ.pdb
+C:\Users\PTGAdmin\source\repos\BUZZ Test\obj\Debug\netcoreapp2.2\BUZZ Test.csproj.CopyComplete

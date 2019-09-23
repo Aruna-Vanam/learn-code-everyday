@@ -1,0 +1,11 @@
+C:\Users\PTGAdmin\source\repos\FIZZ\bin\Debug\netcoreapp2.2\FIZZ.deps.json
+C:\Users\PTGAdmin\source\repos\FIZZ\bin\Debug\netcoreapp2.2\FIZZ.runtimeconfig.json
+C:\Users\PTGAdmin\source\repos\FIZZ\bin\Debug\netcoreapp2.2\FIZZ.runtimeconfig.dev.json
+C:\Users\PTGAdmin\source\repos\FIZZ\bin\Debug\netcoreapp2.2\FIZZ.dll
+C:\Users\PTGAdmin\source\repos\FIZZ\bin\Debug\netcoreapp2.2\FIZZ.pdb
+C:\Users\PTGAdmin\source\repos\FIZZ\obj\Debug\netcoreapp2.2\FIZZ.csprojAssemblyReference.cache
+C:\Users\PTGAdmin\source\repos\FIZZ\obj\Debug\netcoreapp2.2\FIZZ.csproj.CoreCompileInputs.cache
+C:\Users\PTGAdmin\source\repos\FIZZ\obj\Debug\netcoreapp2.2\FIZZ.AssemblyInfoInputs.cache
+C:\Users\PTGAdmin\source\repos\FIZZ\obj\Debug\netcoreapp2.2\FIZZ.AssemblyInfo.cs
+C:\Users\PTGAdmin\source\repos\FIZZ\obj\Debug\netcoreapp2.2\FIZZ.dll
+C:\Users\PTGAdmin\source\repos\FIZZ\obj\Debug\netcoreapp2.2\FIZZ.pdb
